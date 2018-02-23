@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work, so it's worth looking at.
+Emergency fix after stash. This repository is for showing how Git and GitHub work, so it's worth looking at.
 
 ## Purpose
 
