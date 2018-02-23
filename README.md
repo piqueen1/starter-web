@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 ### Copyright
 
+Sort of to me.  Mostly to this guy Jason.
+
 ## How to Contribute
